@@ -1,4 +1,4 @@
-# PixelTrailArcade
+# SMBclasiccb4
 
 A Java desktop pixel-art arcade game.
 
